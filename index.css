@@ -20,7 +20,11 @@ body {
 }
 
 .text {
-color: hsl(228, 34%, 66%);
+    color: hsl(228, 34%, 66%);
+}
+
+.toggleIcon {
+    background-color: hsl(163, 72%, 41%);
 }
 
 .card {
