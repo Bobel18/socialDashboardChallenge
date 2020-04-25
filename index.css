@@ -1,14 +1,13 @@
 body {
     
     font-family: 'Inter', sans-serif;
-    margin:36px 165px 75px 165px;
     box-sizing: border-box;
+    background-color: hsl(230, 17%, 14%);
     
 }
 
 .pattern {
-    
-    height: 30%;
+    margin:36px 0px 0px 165px;
     width: 100%;
     display: flex;
     background-color:hsl(232, 19%, 15%);
@@ -31,17 +30,17 @@ body {
     font-size: 14px;
     margin-right: 13px;
 }
-.grad1 {
+#toggle {
     width: 48px;
     height: 24px;
     border-radius: 12px;
- background-color: linear-gradient(to right hsl(210, 78%, 56%) to hsl(146, 68%, 55%));
+ background-image: 
+ linear-gradient(90deg, hsl(210, 78%, 56%), hsl(146, 68%, 55%));
 }
 .icon-image-preview{
     width: 18px;
     height: 18px;
-    margin-top: 8px;
-    display: contents;
+    
 }
 
 .container{
