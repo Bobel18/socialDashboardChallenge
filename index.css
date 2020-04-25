@@ -2,13 +2,13 @@ body {
     
     font-family: 'Inter', sans-serif;
     box-sizing: border-box;
-    background-color: hsl(230, 17%, 14%);
+    background-color:hsl(232, 19%, 15%);
     margin:0px 165px 0px 165px;
 
     
 }
 .container{
-    background-color:hsl(232, 19%, 15%);
+    
     width: 100%;
     height: 100%;
 
