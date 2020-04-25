@@ -21,10 +21,11 @@ body {
 
 .text {
     color: hsl(228, 34%, 66%);
+    font-weight: 400;
 }
 
 .toggleIcon {
-    background-color: hsl(163, 72%, 41%);
+    color: linear gradient hsl(210, 78%, 56%) to hsl(146, 68%, 55%) ;
 }
 
 .card {
