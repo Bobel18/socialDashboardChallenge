@@ -3,7 +3,7 @@ body {
     font-family: 'Inter', sans-serif;
     margin:36px 165px 75px 165px;
     box-sizing: border-box;
-    background-color:hsl(232, 19%, 15%);
+    
 }
 
 .pattern {
@@ -11,7 +11,7 @@ body {
     height: 30%;
     width: 100%;
     display: flex;
-    
+    background-color:hsl(232, 19%, 15%);
 }
 
 .title {
@@ -35,7 +35,13 @@ body {
     width: 48px;
     height: 24px;
     border-radius: 12px;
- background-image: linear-gradient(to right hsl(210, 78%, 56%) to hsl(146, 68%, 55%));
+ background-color: linear-gradient(to right hsl(210, 78%, 56%) to hsl(146, 68%, 55%));
+}
+.icon-image-preview{
+    width: 18px;
+    height: 18px;
+    margin-top: 8px;
+    display: contents;
 }
 
 .container{
