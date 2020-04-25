@@ -8,6 +8,7 @@ body {
 .pattern {
     background-color:hsl(232, 19%, 15%);
     height: 30%;
+    width: auto;
     display: flex;
     
 }
