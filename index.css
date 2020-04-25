@@ -1,17 +1,20 @@
 body {
     background-color:hsl(230, 17%, 14%);
     font-family: 'Inter', sans-serif;
-    padding:25px 100px 50px 100px;
+    padding:36px 165px 75px 165px;
+    box-sizing: border-box;
 }
 
 .pattern {
     background-color:hsl(232, 19%, 15%);
     height: 30%;
+    display: flex;
     
 }
 
 .title {
     font-weight: 700;
+    font-size: 28px;
     color:hsl(0, 0%, 100%);
 }
 
@@ -21,12 +24,20 @@ body {
 
 .text {
     color: hsl(228, 34%, 66%);
-    font-weight: 400;
+    font-weight: 700;
+    font-size: 14px;
+    margin-right: 13px;
 }
 
 #grad1 {
-
- background-color: linear-gradient hsl(210, 78%, 56%) to hsl(146, 68%, 55%) ;
+    width: 48px;
+    height: 24px;
+    border-radius: 12px;
+ background-image: linear-gradient hsl(210, 78%, 56%) to hsl(146, 68%, 55%) ;
+}
+.icon-image-preview{
+    width: 18px;
+   height:18px;
 }
 
 
