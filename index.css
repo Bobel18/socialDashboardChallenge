@@ -8,7 +8,7 @@ body {
     
 }
 .container{
-    background-color: (232, 19%, 15%);
+    background-color: hsl(232, 19%, 15%);
     width: 100%;
     height: 100%;
 
