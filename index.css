@@ -69,4 +69,14 @@ body {
 }
 .cardHead{
     display:flex;
+    padding-bottom: 24px;
+}
+.icon-symb{
+    padding-right: 8px;
+}
+.number{
+    font-weight: 700;
+    font-size: 56px;
+    color:hsl(0, 0%, 100%);
+
 }
