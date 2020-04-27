@@ -5,6 +5,7 @@ body {
     background-color: hsl(230, 17%, 14%);
     margin:0px;
     
+    
 }
 .container{
     background-color: hsl(232, 19%, 15%);
@@ -53,15 +54,21 @@ body {
 }
 
 .container1 {
-    padding: 0px 165px 46px 165px
+    padding: 0px 165px 46px 165px;
+    display:flex;
+    justify-content: space-between;
+    margin-top: -112px;
+    width: 100%;
+
+    
 }
-.cards{
+/* .cards{
+   
     display:flex;
     justify-content: space-between;
     margin-top: -112px;
 
-
-}
+} */
 .card, .card3, .card4 {
     background-color:hsl(228, 28%, 20%);
     padding:32px 64px 0px 64px;
