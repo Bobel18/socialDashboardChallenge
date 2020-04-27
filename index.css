@@ -105,10 +105,13 @@ body {
 .cardFootText, .carFootText1{
     font-weight: 700;
     font-size: 12px;
-    color: hsl(163, 72%, 41%);
     padding-right: 8px;
 }
-.carFootText1{
+.cardFootText{ 
+    color: hsl(163, 72%, 41%);
+
+}
+.cardFootText1{
     color:hsl(348, 97%, 39%)
 }
 .title2{
