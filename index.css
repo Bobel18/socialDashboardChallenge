@@ -102,11 +102,14 @@ body {
     text-transform: uppercase;
 }
 
-.cardFootText{
+.cardFootText, .carFootText1{
     font-weight: 700;
     font-size: 12px;
     color: hsl(163, 72%, 41%);
     padding-right: 8px;
+}
+.carFootText1{
+    color:hsl(348, 97%, 39%)
 }
 .title2{
     font-weight: 700;
