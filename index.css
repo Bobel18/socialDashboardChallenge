@@ -76,13 +76,14 @@ body {
     border-radius:5px;
 }
 .card{
-    border-top: 4px solid #178ff5;  
+    border-top: 4px solid #178ff5;
+    width:23%;
 }
-.card3{
+.card3:first-child {
     border-top: 4px solid linear-gradient(hsl(37, 97%, 70%) to hsl(329, 70%, 58%));  
     
 }
-.card4{
+.card4:last-child{
         border-top: 4px solid hsl(348, 97%, 39%);
 }
 .cardHead{
