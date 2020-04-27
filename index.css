@@ -3,15 +3,12 @@ body {
     font-family: 'Inter', sans-serif;
     box-sizing: border-box;
     background-color: hsl(230, 17%, 14%);
-   
-
+    margin:0px;
     
 }
 .container{
     background-color: hsl(232, 19%, 15%);
-    width: 100%;
-    margin:0px 165px 0px 165px;
-    height: 100%;
+    padding:36px 165px 154px 165px;
 
 }
 .pattern {
@@ -51,14 +48,13 @@ body {
     
 }
 .subtitle{
-margin-bottom:154px;
 color: hsl(228, 34%, 66%);
     font-weight: 700;
     font-size: 14px;
 }
 
 .container1 {
-    
+    padding: 0px 165px 46px 165px
 }
 .cards{
     display:flex;
