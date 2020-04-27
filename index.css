@@ -76,7 +76,7 @@ body {
     
 }
 .card4{
-        border-top: 4px solid hsl(356, 69%, 56%);  
+        border-top: 4px solid hsl(348, 97%, 39%);
 }
 .cardHead{
     display:flex;
@@ -102,7 +102,7 @@ body {
     text-transform: uppercase;
 }
 
-.cardFootText, .carFootText1{
+.cardFootText, .cardFootText1{
     font-weight: 700;
     font-size: 12px;
     padding-right: 8px;
@@ -112,7 +112,7 @@ body {
 
 }
 .cardFootText1{
-    color:hsl(348, 97%, 39%)
+    color:hsl(356, 69%, 56%);
 }
 .title2{
     font-weight: 700;
