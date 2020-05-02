@@ -56,7 +56,7 @@ body {
 .container1 {
     padding: 0px 165px 46px 165px;
     display:flex;
-    justify-content: space-between;
+    /* justify-content: space-between; */
     margin-top: -112px;
 
     
@@ -74,16 +74,19 @@ body {
     text-align: center;
     border-radius:5px;
     width:25%;
+    display:flex;
+    flex-direction: column;
+    flex:1;
 
 }
 .card{
     border-top: 4px solid #178ff5;
 }
-.card3:first-child {
+.card3{
     border-top: 4px solid linear-gradient(hsl(37, 97%, 70%) to hsl(329, 70%, 58%));  
     
 }
-.card4:last-child{
+.card4{
         border-top: 4px solid hsl(348, 97%, 39%);
 }
 .cardHead{
