@@ -28,9 +28,12 @@ body {
     align-items: flex-end;
 }
 
-.text {
+.text, .card2Text {
     color: hsl(228, 34%, 66%);
     font-weight: 700;
+    font-size: 12px;
+}
+.card2Text{
     font-size: 14px;
 }
 #toggle {
