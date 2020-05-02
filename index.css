@@ -152,7 +152,7 @@ body {
     flex-direction: column;
     flex:1;
 }
-.card2Head{
+.card2Head, .card2Foot{
     display:flex;
     padding-bottom: 24px;
     justify-content: space-between;
@@ -163,5 +163,11 @@ body {
 font-size: 32px;
 }
 .card2Foot{
+    padding-bottom: 0px;
+
+}
+.card2FootPercentage{
 display: flex;
+align-items: center;
+margin-top:15px;
 }
