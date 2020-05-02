@@ -61,22 +61,20 @@ body {
 
     
 }
-/* .cards{
-   
-    display:flex;
-    justify-content: space-between;
-    margin-top: -112px;
-
-} */
+.column{
+    width: 25%;
+    
+}
 .card, .card3, .card4 {
     background-color:hsl(228, 28%, 20%);
     padding:32px 64px 0px 64px;
     text-align: center;
     border-radius:5px;
-    width:25%;
+    height: 100%;
     display:flex;
     flex-direction: column;
     flex:1;
+   
 
 }
 .card{
