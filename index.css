@@ -143,8 +143,11 @@ body {
     padding: 0px 165px 24px 165px;
     display:flex;
 }
+.container3{
+    padding-top: 24px;
+}
 
-.container2Card{
+.container2Card,.container3Card {
     background-color:hsl(228, 28%, 20%);
     padding:24px 24px 24px 32px;
     text-align: center;
@@ -157,6 +160,7 @@ body {
     padding-bottom: 24px;
     justify-content: space-between;
     display: flex;
+    
 
 }
 .card2Number{
