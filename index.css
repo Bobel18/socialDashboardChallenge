@@ -81,8 +81,8 @@ body {
     border-top: 4px solid #178ff5;
 }
 .card3BorderTop{
-    border-top: 4px solid linear-gradient(hsl(37, 97%, 70%) to hsl(329, 70%, 58%));  
-    
+    background-image:  linear-gradient(hsl(37, 97%, 70%) to hsl(329, 70%, 58%));  
+    height: 4px;
 }
 .card4{
         border-top: 4px solid hsl(348, 97%, 39%);
