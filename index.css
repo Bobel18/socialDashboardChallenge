@@ -136,3 +136,22 @@ body {
     padding: 0 165px 24px 165px;
 
 }
+.container2{
+    padding: 0px 165px 24px 165px;
+    display:flex;
+}
+
+.container2Card{
+    background-color:hsl(228, 28%, 20%);
+    padding:24px 24px 24px 32px;
+    text-align: center;
+    display:flex;
+    flex-direction: column;
+    flex:1;
+}
+.cardHead{
+    display:flex;
+    padding-bottom: 24px;
+    justify-content: space-between;
+
+}
