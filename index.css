@@ -152,7 +152,7 @@ body {
     flex-direction: column;
     flex:1;
 }
-.cardHead{
+.card2Head{
     display:flex;
     padding-bottom: 24px;
     justify-content: space-between;
