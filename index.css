@@ -106,7 +106,7 @@ body {
 .icon-symbol{
     padding-right: 8px;
 }
-.number{
+.number, .card2Number{
     font-weight: 700;
     font-size: 56px;
     color:hsl(0, 0%, 100%);
@@ -158,4 +158,10 @@ body {
     justify-content: space-between;
     display: flex;
 
+}
+.card2Number{
+font-size: 32px;
+}
+.card2Foot{
+display: flex;
 }
