@@ -80,7 +80,7 @@ body {
 .card{
     border-top: 4px solid #178ff5;
 }
-.card3BorderTop{
+#card3BorderTop{
     background-image:  
     linear-gradient(90deg, hsl(37, 97%, 70%) to hsl(329, 70%, 58%));  
     height: 4px;
