@@ -156,5 +156,6 @@ body {
     display:flex;
     padding-bottom: 24px;
     justify-content: space-between;
+    display: flex;
 
 }
