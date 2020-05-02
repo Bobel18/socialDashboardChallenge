@@ -80,7 +80,7 @@ body {
 .card{
     border-top: 4px solid #178ff5;
 }
-.card3{
+.card3BorderTop{
     border-top: 4px solid linear-gradient(hsl(37, 97%, 70%) to hsl(329, 70%, 58%));  
     
 }
